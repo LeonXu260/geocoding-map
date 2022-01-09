@@ -1,4 +1,4 @@
-# Geocoding Map App
+# Geocoding App
 
 This map app allows users to search for anything that is nearby their location. User can treat it as Google Maps
 
