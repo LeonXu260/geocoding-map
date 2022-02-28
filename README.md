@@ -6,7 +6,7 @@ This map app allows users to search for anything that is nearby their location. 
 On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
 
 ## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+![screenshots](server/public/img/screenshot.png)
 
 ## Installation
 Make sure that you have [NodeJS](https://nodejs.org) and [npm](https://www.npmjs.com/). **Note: When you install NodeJS, it installs npm along with it.**
