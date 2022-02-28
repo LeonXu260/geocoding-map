@@ -1,6 +1,6 @@
 # Geocoding App
 
-This map app allows users to search for anything that is nearby their location. User can treat it as Google Maps
+This map app allows users to search for anything that is nearby their location. User can treat it as Google Maps.
 
 ## Badges
 On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
@@ -28,7 +28,9 @@ For people who want to make changes to your project, it's helpful to have some d
 You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
 
 ## Authors and acknowledgment
-- [Leon Xu](https://gitlab.com/leonxu260)
+- [Leon Xu](https://github.com/leonxu260)
+- [Leaflet](https://leafletjs.com/)
+- [Mapbox API](https://mapbox.com)
 
 ## License
 For open source projects, say how it is licensed.
