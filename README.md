@@ -14,7 +14,7 @@ In order to run the application in the client directory, navigate to client dire
 The server directory is the same thing, navigate to the ```server``` directory and run ```npm i``` to install all the dependencies and then run ```node index.js``` to spin up the local server.
 
 ## Support
-If issue exists, please open up a pull request.
+If issue exists, please open up an issue to notify me so I can go ahead and fix those changes.
 
 ## Authors and acknowledgment
 - [Leon Xu](https://github.com/leonxu260)
