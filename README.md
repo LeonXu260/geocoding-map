@@ -9,7 +9,13 @@ On some READMEs, you may see small images that convey metadata, such as whether 
 Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
 
 ## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+Make sure that you have [NodeJS](https://nodejs.org) and [npm](https://www.npmjs.com/). ** Note: When you install NodeJS, it installs npm along with it. **
+
+There are two folder in this repo. The first one is the client and the second one is server. 
+In order to run the application in the client directory, navigate to client directory and run ```npm i``` to install all the dependencies and then ```npm run serve``` to serve up the local development.
+
+The server directory is the same thing, navigate to the ```server``` directory and run ```npm i``` to install all the dependencies and then run ```node index.js``` to spin up the local server.
+
 
 ## Usage
 Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
