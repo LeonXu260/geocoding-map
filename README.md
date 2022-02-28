@@ -9,7 +9,7 @@ On some READMEs, you may see small images that convey metadata, such as whether 
 Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
 
 ## Installation
-Make sure that you have [NodeJS](https://nodejs.org) and [npm](https://www.npmjs.com/). ** Note: When you install NodeJS, it installs npm along with it. **
+Make sure that you have [NodeJS](https://nodejs.org) and [npm](https://www.npmjs.com/). **Note: When you install NodeJS, it installs npm along with it.**
 
 There are two folder in this repo. The first one is the client and the second one is server. 
 In order to run the application in the client directory, navigate to client directory and run ```npm i``` to install all the dependencies and then ```npm run serve``` to serve up the local development.
